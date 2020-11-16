@@ -6,7 +6,7 @@ using  Umbraco.Core.Models;
 using  Umbraco.Core.Models.PublishedContent;
 using  Umbraco.Web;
 using  Umbraco.ModelsBuilder.Embedded;
-[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "bace12c7aa945884")]
+[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "672d8b42f7c75444")]
 [assembly:System.Reflection.AssemblyVersion("0.0.0.1")]
 
 
@@ -62,7 +62,7 @@ namespace Umbraco.Web.PublishedModels
 		// properties
 	}
 
-	/// <summary>Kontakt</summary>
+	/// <summary>Contact</summary>
 	[PublishedModel("Ko")]
 	public partial class Ko : PublishedContentModel
 	{
